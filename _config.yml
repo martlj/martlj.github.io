@@ -23,7 +23,7 @@ description: "Personal academic website"
 
 # Path to your photo. A placeholder is provided at first — see SETUP.md
 # for how to upload your own photo and update this path.
-photo: "/assets/images/profile.svg"
+photo: "/assets/images/Martin_and_Alfie.jpg"
 
 bio: >
   Martin Jones is the Deputy Head of Microscopy Prototyping in the Electron Microscopy STP at the Francis Crick Institute. He originally trained as a physicist and specialises in developing new hardware and software solutions for imaging and image analysis.
