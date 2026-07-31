@@ -1,0 +1,19 @@
+# This file is automatically updated once a week by the "Update Publications"
+# GitHub Action, based on the orcid.id value in _config.yml. Your works are
+# read from ORCID, and citation counts come from Semantic Scholar.
+#
+# If the Action can't find citation data for a work (e.g. it has no DOI,
+# PMID, or arXiv ID), this file is simply left as-is. You can:
+#   - Trigger the Action again manually (Actions tab > Update Publications >
+#     Run workflow), or
+#   - Edit the list below by hand, following the same format.
+#
+# See SETUP.md for details.
+
+last_updated: "not yet run"
+items:
+  - title: "Example: your publications will appear here automatically"
+    authors: "Your Name, et al."
+    year: 2024
+    citations: 0
+    link: "#"

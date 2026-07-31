@@ -1,0 +1,66 @@
+---
+---
+
+@import "minima";
+
+.wrapper {
+  max-width: 800px;
+}
+
+.site-header nav a {
+  margin-left: 1.2rem;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.bio {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.profile-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.bio-text {
+  flex: 1;
+  min-width: 250px;
+}
+
+.institute {
+  color: #555;
+  margin-top: -0.5rem;
+}
+
+.links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.publications {
+  padding-left: 1.2rem;
+}
+
+.publications li {
+  margin-bottom: 1rem;
+}
+
+.pub-meta {
+  display: block;
+  color: #666;
+  font-size: 0.9em;
+}
+
+.meta {
+  color: #888;
+  font-size: 0.85em;
+}

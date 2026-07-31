@@ -1,0 +1,76 @@
+# =====================================================================
+# SITE SETTINGS
+#
+# Edit the values below to personalize your website. You can do this
+# directly on GitHub: open this file, click the pencil (Edit) icon in
+# the top right, make your changes, and click "Commit changes".
+#
+# A few rules for editing YAML files like this one:
+#   - Keep the indentation (spacing) exactly as it is.
+#   - Wrap text that contains a colon ":" in quotes, e.g. "9:00 start".
+#   - Don't delete the "---" line further down, or the site will break.
+#
+# After committing, your site will automatically rebuild — this usually
+# takes 1-2 minutes. See SETUP.md for the full walkthrough.
+# =====================================================================
+
+title: "Your Name"
+description: "Personal academic website"
+
+# ---------------------------------------------------------------------
+# BIO PAGE
+# ---------------------------------------------------------------------
+
+# Path to your photo. A placeholder is provided at first — see SETUP.md
+# for how to upload your own photo and update this path.
+photo: "/assets/images/profile.svg"
+
+bio: >
+  Write a couple of sentences about yourself here: your research interests,
+  your current role, and anything else you'd like visitors to know.
+
+institute:
+  name: "Your Institute or University"
+  url: "https://example.edu"
+
+# Add, remove, or edit as many links as you like.
+links:
+  - label: "Email"
+    url: "mailto:you@example.edu"
+  - label: "GitHub"
+    url: "https://github.com/yourusername"
+  - label: "Social media link(s)"
+    url: "https://example.com/yourusername"
+  - label: "LinkedIn"
+    url: "https://www.linkedin.com/in/yourusername"
+
+# ---------------------------------------------------------------------
+# SCIENTIFIC OUTPUTS PAGE
+# ---------------------------------------------------------------------
+# Paste your ORCID iD below (the full URL works too). It looks like:
+#   0000-0002-1825-0097  or  https://orcid.org/0000-0002-1825-0097
+# Don't have one? They're free and standard for researchers — sign up at
+# https://orcid.org/register
+#
+# A GitHub Action checks this profile once a week and automatically
+# updates _data/publications.yml with your 5 most-cited publications
+# (citation counts come from Semantic Scholar). See the "Scientific
+# Outputs page" section of SETUP.md for how to trigger it manually or
+# edit the list by hand.
+orcid:
+  id: "0000-0002-1825-0097"
+
+# ---------------------------------------------------------------------
+# Jekyll / theme settings — no need to touch these
+# ---------------------------------------------------------------------
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+exclude:
+  - scripts/
+  - requirements.txt
+  - SETUP.md
+  - Gemfile
+  - Gemfile.lock
