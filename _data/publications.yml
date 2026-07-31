@@ -1,19 +1,40 @@
-# This file is automatically updated once a week by the "Update Publications"
-# GitHub Action, based on the orcid.id value in _config.yml. Your works are
-# read from ORCID, and citation counts come from Semantic Scholar.
-#
-# If the Action can't find citation data for a work (e.g. it has no DOI,
-# PMID, or arXiv ID), this file is simply left as-is. You can:
-#   - Trigger the Action again manually (Actions tab > Update Publications >
-#     Run workflow), or
-#   - Edit the list below by hand, following the same format.
-#
-# See SETUP.md for details.
-
-last_updated: "not yet run"
+last_updated: '2026-07-31'
 items:
-  - title: "Example: your publications will appear here automatically"
-    authors: "Your Name, et al."
-    year: 2024
-    citations: 0
-    link: "#"
+- title: Democratising deep learning for microscopy with ZeroCostDL4Mic
+  authors: Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel
+    Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-Pérez, P. Mattila, Eleni
+    Karinou, S. Holden, A. Solak, Alexander Krull, T. Buchholz, Martin L. Jones, Loic
+    A. Royer, Christophe Leterrier, Y. Shechtman, Florian Jug, M. Heilemann, Guillaume
+    Jacquemet, Ricardo Henriques
+  year: 2021
+  citations: 458
+  link: https://doi.org/10.1038/s41467-021-22518-0
+- title: The role of differential VE-cadherin dynamics in cell rearrangement during
+    angiogenesis
+  authors: Katie Bentley, C. Franco, Andrew O. Philippides, R. Blanco, Martina Dierkes,
+    Véronique Gebala, F. Stanchi, Martin Jones, Irene M. Aspalter, Guiseppe Cagna,
+    Simone Weström, L. Claesson‐Welsh, D. Vestweber, H. Gerhardt
+  year: 2014
+  citations: 366
+  link: https://doi.org/10.1038/ncb2926
+- title: Dynamic Endothelial Cell Rearrangements Drive Developmental Vessel Regression
+  authors: C. Franco, Martin L Jones, M. Bernabeu, Ilse Geudens, T. Mathivet, A. Rosa,
+    Felicia M. Lopes, Aida P. Lima, Anan Ragab, Russell T Collins, Li-Kun Phng, P.
+    Coveney, H. Gerhardt
+  year: 2015
+  citations: 281
+  link: https://doi.org/10.1371/journal.pbio.1002125
+- title: Non-canonical Wnt signalling modulates the endothelial shear stress flow
+    sensor in vascular remodelling
+  authors: C. Franco, Martin L Jones, M. Bernabeu, Anne-Clémence Vion, Pedro Barbacena,
+    Jieqing Fan, T. Mathivet, C. G. Fonseca, Anan Ragab, Terry P. Yamaguchi, P. Coveney,
+    R. Lang, H. Gerhardt
+  year: 2016
+  citations: 140
+  link: https://doi.org/10.7554/eLife.07727
+- title: Mycobacterium tuberculosis replicates within necrotic human macrophages
+  authors: Thomas R. Lerner, Sophie Borel, Daniel J. Greenwood, U. Repnik, Matthew
+    R G Russell, S. Herbst, Martin L. Jones, L. Collinson, G. Griffiths, M. Gutierrez
+  year: 2017
+  citations: 134
+  link: https://doi.org/10.1083/jcb.201603040
