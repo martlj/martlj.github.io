@@ -14,7 +14,7 @@
 # takes 1-2 minutes. See SETUP.md for the full walkthrough.
 # =====================================================================
 
-title: "Your Name"
+title: "Martin Jones"
 description: "Personal academic website"
 
 # ---------------------------------------------------------------------
@@ -26,23 +26,24 @@ description: "Personal academic website"
 photo: "/assets/images/profile.svg"
 
 bio: >
-  Write a couple of sentences about yourself here: your research interests,
-  your current role, and anything else you'd like visitors to know.
+  Martin Jones is the Deputy Head of Microscopy Prototyping in the Electron Microscopy STP at the Francis Crick Institute. He originally trained as a physicist and specialises in developing new hardware and software solutions for imaging and image analysis.
+
+In the EM Science Technology Platform, Martin looks after the citizen science project Etch a Cell (https://www.zooniverse.org/projects/h-spiers/etch-a-cell) and works on several projects that aim to improve our efficiency at acquiring data and subsequently extracting meaning from it.
 
 institute:
-  name: "Your Institute or University"
-  url: "https://example.edu"
+  name: "Francis Crick Institute"
+  url: "https://www.crick.ac.uk/"
 
 # Add, remove, or edit as many links as you like.
 links:
   - label: "Email"
-    url: "mailto:you@example.edu"
+    url: "mailto:martin.jones@crick.ac.uk"
   - label: "GitHub"
-    url: "https://github.com/yourusername"
-  - label: "Social media link(s)"
-    url: "https://example.com/yourusername"
+    url: "https://github.com/martlj"
+  - label: "BlueSky"
+    url: "https://bsky.app/profile/martinjones.bsky.social"
   - label: "LinkedIn"
-    url: "https://www.linkedin.com/in/yourusername"
+    url: "https://www.linkedin.com/in/martinljones"
 
 # ---------------------------------------------------------------------
 # SCIENTIFIC OUTPUTS PAGE
@@ -58,7 +59,7 @@ links:
 # Outputs page" section of SETUP.md for how to trigger it manually or
 # edit the list by hand.
 orcid:
-  id: "0000-0002-1825-0097"
+  id: "0000-0003-0994-5652"
 
 # ---------------------------------------------------------------------
 # Jekyll / theme settings — no need to touch these
