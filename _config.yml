@@ -26,9 +26,16 @@ description: "Personal academic website"
 photo: "/assets/images/Martin_and_Alfie.jpg"
 
 bio: >
-  Martin Jones is the Deputy Head of Microscopy Prototyping in the Electron Microscopy STP at the Francis Crick Institute. He originally trained as a physicist and specialises in developing new hardware and software solutions for imaging and image analysis.
+  Martin Jones is the Deputy Head of Microscopy Prototyping in the Electron
+  Microscopy STP at the Francis Crick Institute. He originally trained as a
+  physicist and specialises in developing new hardware and software
+  solutions for imaging and image analysis.
 
-In the EM Science Technology Platform, Martin looks after the citizen science project Etch a Cell (https://www.zooniverse.org/projects/h-spiers/etch-a-cell) and works on several projects that aim to improve our efficiency at acquiring data and subsequently extracting meaning from it.
+  In the EM Science Technology Platform, Martin looks after the citizen
+  science project Etch a Cell
+  (https://www.zooniverse.org/projects/h-spiers/etch-a-cell) and works on
+  several projects that aim to improve our efficiency at acquiring data and
+  subsequently extracting meaning from it.
 
 institute:
   name: "Francis Crick Institute"
