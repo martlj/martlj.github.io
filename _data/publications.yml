@@ -1,4 +1,4 @@
-last_updated: '2026-08-03'
+last_updated: '2026-08-10'
 items:
 - title: Democratising deep learning for microscopy with ZeroCostDL4Mic
   authors: Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel
@@ -7,7 +7,7 @@ items:
     A. Royer, Christophe Leterrier, Y. Shechtman, Florian Jug, M. Heilemann, Guillaume
     Jacquemet, Ricardo Henriques
   year: 2021
-  citations: 458
+  citations: 459
   link: https://doi.org/10.1038/s41467-021-22518-0
 - title: The role of differential VE-cadherin dynamics in cell rearrangement during
     angiogenesis
