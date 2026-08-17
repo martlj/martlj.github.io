@@ -1,4 +1,4 @@
-last_updated: '2026-08-10'
+last_updated: '2026-08-17'
 items:
 - title: Democratising deep learning for microscopy with ZeroCostDL4Mic
   authors: Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel
@@ -7,7 +7,7 @@ items:
     A. Royer, Christophe Leterrier, Y. Shechtman, Florian Jug, M. Heilemann, Guillaume
     Jacquemet, Ricardo Henriques
   year: 2021
-  citations: 459
+  citations: 461
   link: https://doi.org/10.1038/s41467-021-22518-0
 - title: The role of differential VE-cadherin dynamics in cell rearrangement during
     angiogenesis
@@ -22,7 +22,7 @@ items:
     Felicia M. Lopes, Aida P. Lima, Anan Ragab, Russell T Collins, Li-Kun Phng, P.
     Coveney, H. Gerhardt
   year: 2015
-  citations: 281
+  citations: 282
   link: https://doi.org/10.1371/journal.pbio.1002125
 - title: Non-canonical Wnt signalling modulates the endothelial shear stress flow
     sensor in vascular remodelling
@@ -30,7 +30,7 @@ items:
     Jieqing Fan, T. Mathivet, C. G. Fonseca, Anan Ragab, Terry P. Yamaguchi, P. Coveney,
     R. Lang, H. Gerhardt
   year: 2016
-  citations: 140
+  citations: 141
   link: https://doi.org/10.7554/eLife.07727
 - title: Mycobacterium tuberculosis replicates within necrotic human macrophages
   authors: Thomas R. Lerner, Sophie Borel, Daniel J. Greenwood, U. Repnik, Matthew
