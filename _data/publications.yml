@@ -1,4 +1,4 @@
-last_updated: '2026-08-24'
+last_updated: '2026-08-31'
 items:
 - title: Democratising deep learning for microscopy with ZeroCostDL4Mic
   authors: Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel
@@ -22,7 +22,7 @@ items:
     Felicia M. Lopes, Aida P. Lima, Anan Ragab, Russell T Collins, Li-Kun Phng, P.
     Coveney, H. Gerhardt
   year: 2015
-  citations: 282
+  citations: 281
   link: https://doi.org/10.1371/journal.pbio.1002125
 - title: Non-canonical Wnt signalling modulates the endothelial shear stress flow
     sensor in vascular remodelling
@@ -36,5 +36,5 @@ items:
   authors: Thomas R. Lerner, Sophie Borel, Daniel J. Greenwood, U. Repnik, Matthew
     R G Russell, S. Herbst, Martin L. Jones, L. Collinson, G. Griffiths, M. Gutierrez
   year: 2017
-  citations: 134
+  citations: 135
   link: https://doi.org/10.1083/jcb.201603040
