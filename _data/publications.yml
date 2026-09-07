@@ -1,13 +1,13 @@
-last_updated: '2026-08-31'
+last_updated: '2026-09-07'
 items:
 - title: Democratising deep learning for microscopy with ZeroCostDL4Mic
-  authors: Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph Spahn, Daniel
-    Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-Pérez, P. Mattila, Eleni
-    Karinou, S. Holden, A. Solak, Alexander Krull, T. Buchholz, Martin L. Jones, Loic
-    A. Royer, Christophe Leterrier, Y. Shechtman, Florian Jug, M. Heilemann, Guillaume
-    Jacquemet, Ricardo Henriques
+  authors: Lucas von Chamier, R. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel,
+    Elias Nehme, Martina Lerche, Sara Hernández-Pérez, P. Mattila, Eleni Karinou,
+    S. Holden, A. Solak, Alexander Krull, T. Buchholz, Martin L. Jones, Loic A. Royer,
+    Christophe Leterrier, Y. Shechtman, Florian Jug, M. Heilemann, Guillaume Jacquemet,
+    Ricardo Henriques
   year: 2021
-  citations: 463
+  citations: 465
   link: https://doi.org/10.1038/s41467-021-22518-0
 - title: The role of differential VE-cadherin dynamics in cell rearrangement during
     angiogenesis
@@ -15,18 +15,18 @@ items:
     Véronique Gebala, F. Stanchi, Martin Jones, Irene M. Aspalter, Guiseppe Cagna,
     Simone Weström, L. Claesson‐Welsh, D. Vestweber, H. Gerhardt
   year: 2014
-  citations: 366
+  citations: 367
   link: https://doi.org/10.1038/ncb2926
 - title: Dynamic Endothelial Cell Rearrangements Drive Developmental Vessel Regression
-  authors: C. Franco, Martin L Jones, M. Bernabeu, Ilse Geudens, T. Mathivet, A. Rosa,
-    Felicia M. Lopes, Aida P. Lima, Anan Ragab, Russell T Collins, Li-Kun Phng, P.
-    Coveney, H. Gerhardt
+  authors: C. Franco, Martin L. Jones, M. Bernabeu, Ilse Geudens, T. Mathivet, A.
+    Rosa, Felicia M. Lopes, Aida P. Lima, Anan Ragab, Russell T Collins, Li-Kun Phng,
+    P. Coveney, H. Gerhardt
   year: 2015
   citations: 281
   link: https://doi.org/10.1371/journal.pbio.1002125
 - title: Non-canonical Wnt signalling modulates the endothelial shear stress flow
     sensor in vascular remodelling
-  authors: C. Franco, Martin L Jones, M. Bernabeu, Anne-Clémence Vion, Pedro Barbacena,
+  authors: C. Franco, Martin L. Jones, M. Bernabeu, Anne-Clémence Vion, Pedro Barbacena,
     Jieqing Fan, T. Mathivet, C. G. Fonseca, Anan Ragab, Terry P. Yamaguchi, P. Coveney,
     R. Lang, H. Gerhardt
   year: 2016
@@ -36,5 +36,5 @@ items:
   authors: Thomas R. Lerner, Sophie Borel, Daniel J. Greenwood, U. Repnik, Matthew
     R G Russell, S. Herbst, Martin L. Jones, L. Collinson, G. Griffiths, M. Gutierrez
   year: 2017
-  citations: 135
+  citations: 136
   link: https://doi.org/10.1083/jcb.201603040
