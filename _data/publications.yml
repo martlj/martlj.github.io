@@ -1,19 +1,19 @@
-last_updated: '2026-09-28'
+last_updated: '2026-10-05'
 items:
 - title: Democratising deep learning for microscopy with ZeroCostDL4Mic
   authors: Lucas von Chamier, R. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel,
     Elias Nehme, Martina Lerche, Sara Hernández-Pérez, P. Mattila, Eleni Karinou,
-    S. Holden, A. Solak, Alexander Krull, T. Buchholz, Martin L. Jones, L. Royer,
+    Séamus Holden, A. Solak, Alexander Krull, T. Buchholz, Martin L. Jones, L. Royer,
     Christophe Leterrier, Y. Shechtman, Florian Jug, M. Heilemann, Guillaume Jacquemet,
     Ricardo Henriques
   year: 2021
-  citations: 470
+  citations: 472
   link: https://doi.org/10.1038/s41467-021-22518-0
 - title: The role of differential VE-cadherin dynamics in cell rearrangement during
     angiogenesis
   authors: Katie Bentley, C. Franco, Andrew O. Philippides, R. Blanco, Martina Dierkes,
     Véronique Gebala, F. Stanchi, Martin Jones, Irene M. Aspalter, Guiseppe Cagna,
-    S. Weström, L. Claesson‐Welsh, D. Vestweber, H. Gerhardt
+    S. Weström, L. Claesson-Welsh, D. Vestweber, H. Gerhardt
   year: 2014
   citations: 368
   link: https://doi.org/10.1038/ncb2926
@@ -24,17 +24,17 @@ items:
   year: 2015
   citations: 283
   link: https://doi.org/10.1371/journal.pbio.1002125
-- title: Non-canonical Wnt signalling modulates the endothelial shear stress flow
-    sensor in vascular remodelling
-  authors: C. Franco, Martin L. Jones, M. Bernabeu, Anne-Clémence Vion, Pedro Barbacena,
-    Jieqing Fan, T. Mathivet, C. G. Fonseca, Anan Ragab, T. Yamaguchi, P. Coveney,
-    R. Lang, H. Gerhardt
-  year: 2016
-  citations: 142
-  link: https://doi.org/10.7554/eLife.07727
 - title: Mycobacterium tuberculosis replicates within necrotic human macrophages
   authors: T. Lerner, Sophie Borel, Daniel J. Greenwood, U. Repnik, Matthew R G Russell,
     S. Herbst, Martin L. Jones, L. Collinson, G. Griffiths, M. Gutierrez
   year: 2017
   citations: 136
   link: https://doi.org/10.1083/jcb.201603040
+- title: 3D correlative light and electron microscopy of cultured cells using serial
+    blockface scanning electron microscopy
+  authors: M. Russell, T. Lerner, J. Burden, D. Nkwe, A. Pelchen-Matthews, M. Domart,
+    J. Durgan, A. Weston, Martin L. Jones, C. Peddie, R. Carzaniga, O. Florey, M.
+    Marsh, M. Gutierrez, L. Collinson
+  year: 2017
+  citations: 111
+  link: https://doi.org/10.1242/jcs.188433
