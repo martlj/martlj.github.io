@@ -1,19 +1,19 @@
-last_updated: '2026-10-05'
+last_updated: '2026-10-12'
 items:
 - title: Democratising deep learning for microscopy with ZeroCostDL4Mic
   authors: Lucas von Chamier, R. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel,
-    Elias Nehme, Martina Lerche, Sara Hernández-Pérez, P. Mattila, Eleni Karinou,
+    Elias Nehme, Martina Lerche, Sara Hernández-Pérez, Pieta K. Mattila, Eleni Karinou,
     Séamus Holden, A. Solak, Alexander Krull, T. Buchholz, Martin L. Jones, L. Royer,
     Christophe Leterrier, Y. Shechtman, Florian Jug, M. Heilemann, Guillaume Jacquemet,
     Ricardo Henriques
   year: 2021
-  citations: 472
+  citations: 473
   link: https://doi.org/10.1038/s41467-021-22518-0
 - title: The role of differential VE-cadherin dynamics in cell rearrangement during
     angiogenesis
   authors: Katie Bentley, C. Franco, Andrew O. Philippides, R. Blanco, Martina Dierkes,
-    Véronique Gebala, F. Stanchi, Martin Jones, Irene M. Aspalter, Guiseppe Cagna,
-    S. Weström, L. Claesson-Welsh, D. Vestweber, H. Gerhardt
+    Véronique Gebala, F. Stanchi, Martin Jones, I. Aspalter, Guiseppe Cagna, S. Weström,
+    L. Claesson-Welsh, D. Vestweber, H. Gerhardt
   year: 2014
   citations: 368
   link: https://doi.org/10.1038/ncb2926
@@ -28,7 +28,7 @@ items:
   authors: T. Lerner, Sophie Borel, Daniel J. Greenwood, U. Repnik, Matthew R G Russell,
     S. Herbst, Martin L. Jones, L. Collinson, G. Griffiths, M. Gutierrez
   year: 2017
-  citations: 136
+  citations: 137
   link: https://doi.org/10.1083/jcb.201603040
 - title: 3D correlative light and electron microscopy of cultured cells using serial
     blockface scanning electron microscopy
