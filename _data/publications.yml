@@ -1,4 +1,4 @@
-last_updated: '2026-10-26'
+last_updated: '2026-11-02'
 items:
 - title: Democratising deep learning for microscopy with ZeroCostDL4Mic
   authors: Lucas von Chamier, R. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel,
@@ -7,7 +7,7 @@ items:
     Christophe Leterrier, Y. Shechtman, Florian Jug, M. Heilemann, Guillaume Jacquemet,
     Ricardo Henriques
   year: 2021
-  citations: 478
+  citations: 486
   link: https://doi.org/10.1038/s41467-021-22518-0
 - title: The role of differential VE-cadherin dynamics in cell rearrangement during
     angiogenesis
@@ -15,7 +15,7 @@ items:
     Véronique Gebala, F. Stanchi, Martin Jones, I. Aspalter, Guiseppe Cagna, S. Weström,
     L. Claesson-Welsh, D. Vestweber, H. Gerhardt
   year: 2014
-  citations: 369
+  citations: 370
   link: https://doi.org/10.1038/ncb2926
 - title: Dynamic Endothelial Cell Rearrangements Drive Developmental Vessel Regression
   authors: C. Franco, Martin L. Jones, M. Bernabeu, Ilse Geudens, T. Mathivet, A.
@@ -24,16 +24,19 @@ items:
   year: 2015
   citations: 285
   link: https://doi.org/10.1371/journal.pbio.1002125
-- title: Mycobacterium tuberculosis replicates within necrotic human macrophages
-  authors: T. Lerner, Sophie Borel, Daniel J. Greenwood, U. Repnik, Matthew R. G.
-    Russell, S. Herbst, Martin L. Jones, L. Collinson, G. Griffiths, M. Gutierrez
-  year: 2017
-  citations: 137
-  link: https://doi.org/10.1083/jcb.201603040
-- title: Synchronization of endothelial Dll4-Notch dynamics switch blood vessels from
-    branching to expansion
-  authors: B. Ubezio, R. Blanco, Ilse Geudens, F. Stanchi, T. Mathivet, Martin L.
-    Jones, Anan Ragab, Katie Bentley, H. Gerhardt
+- title: Non-canonical Wnt signalling modulates the endothelial shear stress flow
+    sensor in vascular remodelling
+  authors: C. Franco, Martin L. Jones, M. Bernabeu, Anne-Clémence Vion, Pedro Barbacena,
+    Jie-Qing Fan, T. Mathivet, C. G. Fonseca, Anan Ragab, T. Yamaguchi, P. Coveney,
+    R. Lang, Holger Gerhardt
   year: 2016
-  citations: 109
-  link: https://doi.org/10.7554/eLife.12167
+  citations: 144
+  link: https://doi.org/10.7554/eLife.07727
+- title: 3D correlative light and electron microscopy of cultured cells using serial
+    blockface scanning electron microscopy
+  authors: M. Russell, T. Lerner, J. Burden, D. Nkwe, A. Pelchen-Matthews, M. Domart,
+    J. Durgan, A. Weston, Martin L. Jones, C. Peddie, R. Carzaniga, O. Florey, M.
+    Marsh, M. Gutierrez, L. Collinson
+  year: 2017
+  citations: 110
+  link: https://doi.org/10.1242/jcs.188433
