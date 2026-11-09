@@ -1,4 +1,4 @@
-last_updated: '2026-11-02'
+last_updated: '2026-11-09'
 items:
 - title: Democratising deep learning for microscopy with ZeroCostDL4Mic
   authors: Lucas von Chamier, R. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel,
@@ -7,7 +7,7 @@ items:
     Christophe Leterrier, Y. Shechtman, Florian Jug, M. Heilemann, Guillaume Jacquemet,
     Ricardo Henriques
   year: 2021
-  citations: 486
+  citations: 488
   link: https://doi.org/10.1038/s41467-021-22518-0
 - title: The role of differential VE-cadherin dynamics in cell rearrangement during
     angiogenesis
@@ -32,11 +32,9 @@ items:
   year: 2016
   citations: 144
   link: https://doi.org/10.7554/eLife.07727
-- title: 3D correlative light and electron microscopy of cultured cells using serial
-    blockface scanning electron microscopy
-  authors: M. Russell, T. Lerner, J. Burden, D. Nkwe, A. Pelchen-Matthews, M. Domart,
-    J. Durgan, A. Weston, Martin L. Jones, C. Peddie, R. Carzaniga, O. Florey, M.
-    Marsh, M. Gutierrez, L. Collinson
+- title: Mycobacterium tuberculosis replicates within necrotic human macrophages
+  authors: T. Lerner, Sophie Borel, Daniel J. Greenwood, U. Repnik, Matthew R. G.
+    Russell, S. Herbst, Martin L. Jones, L. Collinson, G. Griffiths, M. Gutierrez
   year: 2017
-  citations: 110
-  link: https://doi.org/10.1242/jcs.188433
+  citations: 138
+  link: https://doi.org/10.1083/jcb.201603040
