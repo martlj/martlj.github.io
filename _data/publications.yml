@@ -1,19 +1,19 @@
-last_updated: '2026-11-16'
+last_updated: '2026-11-23'
 items:
 - title: Democratising deep learning for microscopy with ZeroCostDL4Mic
-  authors: Lucas von Chamier, R. Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel,
-    Elias Nehme, Martina Lerche, Sara Hernández-Pérez, Pieta K. Mattila, Eleni Karinou,
-    Séamus Holden, A. Solak, Alexander Krull, T. Buchholz, Martin L. Jones, L. Royer,
-    Christophe Leterrier, Y. Shechtman, Florian Jug, M. Heilemann, Guillaume Jacquemet,
-    Ricardo Henriques
+  authors: Lucas von Chamier, Romain F. Laine, Johanna Jukkala, Christoph K. Spahn,
+    Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-Pérez, Pieta K. Mattila,
+    Eleni Karinou, Séamus Holden, A. Solak, Alexander Krull, T. Buchholz, Martin L.
+    Jones, L. Royer, Christophe Leterrier, Y. Shechtman, Florian Jug, M. Heilemann,
+    Guillaume Jacquemet, Ricardo Henriques
   year: 2021
-  citations: 490
+  citations: 492
   link: https://doi.org/10.1038/s41467-021-22518-0
 - title: The role of differential VE-cadherin dynamics in cell rearrangement during
     angiogenesis
-  authors: Katie Bentley, C. Franco, Andrew O. Philippides, R. Blanco, Martina Dierkes,
-    Véronique Gebala, F. Stanchi, Martin Jones, I. Aspalter, Guiseppe Cagna, S. Weström,
-    L. Claesson-Welsh, D. Vestweber, H. Gerhardt
+  authors: Katie Bentley, C. Franco, A. Philippides, R. Blanco, Martina Dierkes, Véronique
+    Gebala, F. Stanchi, Martin Jones, I. Aspalter, Giuseppe Cagna, S. Weström, L.
+    Claesson-Welsh, D. Vestweber, H. Gerhardt
   year: 2014
   citations: 370
   link: https://doi.org/10.1038/ncb2926
@@ -22,19 +22,19 @@ items:
     Rosa, Felicia M. Lopes, Aida P. Lima, Anan Ragab, Russell T Collins, Li-Kun Phng,
     P. Coveney, H. Gerhardt
   year: 2015
-  citations: 285
+  citations: 286
   link: https://doi.org/10.1371/journal.pbio.1002125
 - title: Non-canonical Wnt signalling modulates the endothelial shear stress flow
     sensor in vascular remodelling
   authors: C. Franco, Martin L. Jones, M. Bernabeu, Anne-Clémence Vion, Pedro Barbacena,
     Jie-Qing Fan, T. Mathivet, C. G. Fonseca, Anan Ragab, T. Yamaguchi, P. Coveney,
-    R. Lang, Holger Gerhardt
+    R. Lang, H. Gerhardt
   year: 2016
-  citations: 144
+  citations: 145
   link: https://doi.org/10.7554/eLife.07727
 - title: Mycobacterium tuberculosis replicates within necrotic human macrophages
-  authors: T. Lerner, Sophie Borel, Daniel J. Greenwood, U. Repnik, Matthew R. G.
-    Russell, S. Herbst, Martin L. Jones, L. Collinson, G. Griffiths, M. Gutierrez
+  authors: T. Lerner, S. Borel, Daniel J. Greenwood, U. Repnik, Matthew R. G. Russell,
+    Susanne Herbst, Martin L. Jones, L. Collinson, G. Griffiths, M. Gutierrez
   year: 2017
   citations: 138
   link: https://doi.org/10.1083/jcb.201603040
